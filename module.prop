@@ -1,0 +1,6 @@
+id=shun-cn-replace-com
+name=GooglePlay(DF-DFERH-01错误)
+version=2020-04-21
+versionCode=1
+author=顺几
+description=无法挂载System的情况下，该模块通过替换service.cn.google.xml的方式来修复该问题。就是将cn.google.services替换成com.google.services。
